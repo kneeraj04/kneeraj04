@@ -250,4 +250,4 @@ I am always happy to connect with engineers, researchers, students and professio
 
 ---
 
-### Engineering is a journey of turning curiosity into working systems. Let's build it together**
+### Engineering is a journey of turning curiosity into working systems. Let's build it together
