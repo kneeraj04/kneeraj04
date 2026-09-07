@@ -133,7 +133,7 @@ But engineering starts with curiosity.
 
 ---
 
-# 🛠️ Skill Set
+# Skill Set
 
 ### Programming & Development
 
