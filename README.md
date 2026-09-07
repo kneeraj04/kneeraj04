@@ -10,7 +10,7 @@ For me, engineering is not only about writing code or designing hardware. It is 
 
 ---
 
-# 🚀 Projects
+# Completed & Ongoing Projects
 
 ## 1. FPGA Development – Intel MAX 10 & Nios II
 
@@ -82,7 +82,7 @@ Python-based projects focused on understanding image processing and computer vis
 
 ---
 
-# 🔭 Future Projects & Embedded Ambition
+#  Future Projects & Embedded Ambition
 
 I believe the best way to learn embedded systems is to keep building, experimenting and asking new questions.
 
@@ -98,7 +98,7 @@ and understand how hardware acceleration and processor-based control can work to
 
 ---
 
-## 2. Embedded AI Lab 🤖
+## 2. Embedded AI Lab 
 
 AI/ML is growing rapidly, but bringing AI algorithms into **resource-constrained embedded hardware** introduces a completely different set of engineering challenges.
 
@@ -117,7 +117,7 @@ This is currently at a **nascent stage**, but I would like to gradually develop 
 
 ---
 
-## 3. Quantum Computing – A Long-Term Ambition ⚛️
+## 3. Quantum Computing – A Long-Term Ambition 
 
 Quantum computing is one of the most fascinating areas of current research.
 
@@ -199,7 +199,7 @@ But engineering starts with curiosity.
 
 ---
 
-# 🎯 Subject Interests
+# Subject Interests
 
 My areas of technical interest include:
 
@@ -224,7 +224,7 @@ I am particularly interested in the point where **electronics, computing and sof
 
 ---
 
-# 🧪 What I Like to Explore
+# What I Like to Explore
 
 I enjoy working across different levels of an embedded system:
 
@@ -238,7 +238,7 @@ Whether it is analysing processor latency, designing an FPGA module, writing emb
 
 ---
 
-# 📫 Contact
+# Contact
 
 I am always happy to connect with engineers, researchers, students and professionals interested in **Embedded Systems, FPGA, Electronics, Real-Time Systems, AI and emerging technologies**.
 
